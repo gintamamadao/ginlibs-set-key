@@ -1,6 +1,6 @@
 {
   "name": "ginlibs-set-key",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
@@ -24,12 +24,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gintamamadao/gin-libs.git"
+    "url": "git+https://github.com/gintamamadao/ginlibs-set-key.git"
   },
   "bugs": {
-    "url": "https://github.com/gintamamadao/gin-libs/issues"
+    "url": "https://github.com/gintamamadao/ginlibs-set-key/issues"
   },
-  "homepage": "https://github.com/gintamamadao/gin-libs/#readme",
+  "homepage": "https://github.com/gintamamadao/ginlibs-set-key/#readme",
   "devDependencies": {
     "@babel/core": "^7.11.0",
     "@babel/plugin-transform-runtime": "^7.11.5",
